@@ -2,7 +2,7 @@
 
 ### About me
 + **Python** developer
-+ **Yandex Lyceum** graduate(with honors)
++ Graduate of **Yandex Lyceum**(with honors)
 
 ### Contacts
 + ✈️Telegram: [@az1k_dev](https://t.me/az1k_dev)
