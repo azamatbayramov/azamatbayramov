@@ -1,4 +1,4 @@
-## Hi👋, I'm Bayramov Azamat
+## Hi👋, I'm Azamat Bayramov
 
 ### About me
 + **Python** developer
