@@ -5,8 +5,6 @@
 + Graduate of **Yandex Lyceum**(with honors)
 + Student of **Innopolis University**
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=azamatbayramov)](https://github.com/azamatbayramov)
-
 ### Contacts
 + ✈️Telegram: [@azamatbayramov](https://t.me/azamatbayramov)
 + ✉Email: bayramov.azamat04@gmail.com
