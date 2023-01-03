@@ -3,6 +3,7 @@
 ### About me
 + **Python** developer
 + Graduate of **Yandex Lyceum**(with honors)
++ Student of **Innopolis University**
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=azamatbayramov)](https://github.com/azamatbayramov)
 
